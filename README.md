@@ -86,7 +86,7 @@
 </ul>
 
 ## 📁 Repositories
-You can check our repositories for each learning path in the tables below. Each learning path has its own dedicated repository:
+Each learning path has its own dedicated repository. You can check our repositories for each learning path in the tables below:
 
 |   Learning Paths   |                               Link                                |
 | :----------------: | :---------------------------------------------------------------: |
