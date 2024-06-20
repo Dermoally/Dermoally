@@ -41,7 +41,7 @@
 <h2 id="technologies-used" align="left">Technologies Used</h2>
 <ul>
   <li><b>Mobile Development:</b> Kotlin, Android XML, Retrofit, Android Studio</li>
-  <li><b>Machine Learning:</b> Flask, Numpy, Pandas, Matplotlib, PIL Fork, TensorFlow</li>
+  <li><b>Machine Learning:</b> Numpy, Pandas, Matplotlib, PIL Fork, TensorFlow, Flask</li>
   <li><b>Cloud Computing:</b> Flask, Google Cloud Platform (GCP), Cloud SQL, Cloud Run, Cloud Storage</li>
   <li><b>Design Tools:</b> Figma, Canva</li>
 </ul>
