@@ -43,7 +43,7 @@
   <li><b>Mobile Development:</b> Kotlin, Android Studio</li>
   <li><b>Machine Learning:</b> Numpy, Pandas, Matplotlib, PIL Fork, TensorFlow</li>
   <li><b>Cloud Computing:</b> Flask, Google Cloud Platform (GCP), Flask, Cloud SQL, Cloud Run, Cloud Storage</li>
-  <li><b>Design Tools:</b>Figma</li>
+  <li><b>Design Tools:</b> Figma, Canva</li>
 </ul>
 
 
