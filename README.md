@@ -47,12 +47,12 @@
 </ul>
 
 
-<h2 id="installation" align="left">Installation</h2>
+<!-- <h2 id="installation" align="left">Installation</h2>
 <ol>
   <li><i>Clone this repository</i>:
     <pre><code>git clone https://github.com/Dermoally/Dermoally-apps.git</code></pre>
   </li>
-</ol>
+</ol>-->
 
 
 <!-- USAGE EXAMPLES -->
@@ -84,3 +84,12 @@
     </ul>
   </li>
 </ul>
+
+## Repositories 📁
+You can check our repositories for each learning path in the tables below. Each learning path has its own dedicated repository:
+
+|   Learning Paths   |                               Link                                |
+| :----------------: | :---------------------------------------------------------------: |
+| Mobile Development | [Github](https://github.com/Dermoally/Dermoally-apps)             |
+|  Machine Learning  | [Github](https://github.com/Dermoally/Dermoally-model)            |
+|   Cloud Computing  | [Github](https://github.com/Dermoally/Dermoally-backend)          |
