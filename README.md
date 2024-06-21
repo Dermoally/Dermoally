@@ -66,7 +66,7 @@
 <h2 id="links" align="left">🔗 Links</h2>
 <ul>
   <li><a href="https://drive.google.com/file/d/1manI-5bdCqvGcbGSM2Wq-JSQ2zPXI0Wj/view?usp=sharing">APK</a></li>
-  <li><a href="https://github.com/Dermoally/Dermoally-model/blob/azzan/dermoally-modelv6.ipynb">ML Notebook</a></li>
+  <li><a href="https://github.com/Dermoally/Dermoally-model/blob/azzan/dermoally-modelv7.ipynb">ML Notebook</a></li>
   <li><a href="https://dermoally-vvergznbcq-et.a.run.app/">Flask API</a></li>
   <li><a href="https://www.figma.com/proto/hpASCH3kwXqzXHU75qf3rP/DermoAlly?page-id=171%3A105&node-id=171-108&viewport=-5123%2C-1909%2C1.21&t=VA1lqbHUCDsyIyBv-1&scaling=scale-down&starting-point-node-id=382%3A69&content-scaling=fixed">Figma Design</a></li>
 </ul>
